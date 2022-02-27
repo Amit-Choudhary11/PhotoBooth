@@ -1,0 +1,54 @@
+body{
+    background-position: center;
+    background-size: contain;
+}
+
+.button{
+    font-size: 20px;
+    padding: 5px;
+    color: white;
+    margin: 10px;
+}
+
+#mustache{
+    background-image: url("mustache.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 180px;
+    height:60px;
+}
+
+#hat{
+    background-image: url("hat.png");
+    background-size: cover;
+    background-position: center;
+    width: 90px;
+    height:90px;
+}
+
+#glasses{
+    background-image: url("glasses.png");
+    background-size: cover;
+    background-position: center;
+    width: 180;
+    height:60;
+}
+
+canvas{
+    border-width:10 ;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+#snap{
+font-size: 30px;
+font-weight:600;
+color:cornflowerblue;
+background-color:rgb(10, 255, 255);
+font-family: 'Dancing Script', cursive;
+border-width: 2px;
+border-radius: 10px;
+border-color: white;
+}
+
